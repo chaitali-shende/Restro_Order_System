@@ -64,48 +64,29 @@ This project models how **waiters place orders**, **chefs prepare them**, and **
 
 ## 🖥️ Sample Output  
 
----
 Welcome to KFC Restaurant!!!
 =================================
 
 Menu Card of KFC Restaurant:
 ---------------------------------
 Fried Chicken - Rs.250
-
 Burger - Rs.150
-
 Pizza - Rs.300
-
 French Fries - Rs.120
-
 Momo - Rs.200
-
 Sandwich - Rs.180
-
 Manchurian - Rs.180
 
 ---------------------------------
 
-
-
 Waiter-1: Placed order for Fried Chicken (Customer: Customer-1)
-
 Chef-1: Preparing Fried Chicken
-
 Chef-1: Fried Chicken is ready!
-
 Waiter: Serving Fried Chicken to Customer-1
-
 Added Rs.250 to Customer-1's bill
 
-
-
-
 Receipt for Customer-1:
-
 Total Amount: Rs.250
-
 Payment Successful.
-
 Thank you Customer-1!! Visit Again at KFC Restaurant!!!
 
