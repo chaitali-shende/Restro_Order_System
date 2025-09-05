@@ -69,12 +69,19 @@ Welcome to KFC Restaurant!!!
 
 Menu Card of KFC Restaurant:
 ---------------------------------
+
 Fried Chicken - Rs.250
+
 Burger - Rs.150
+
 Pizza - Rs.300
+
 French Fries - Rs.120
+
 Momo - Rs.200
+
 Sandwich - Rs.180
+
 Manchurian - Rs.180
 
 ---------------------------------
